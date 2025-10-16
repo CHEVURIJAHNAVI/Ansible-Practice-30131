@@ -1,0 +1,5 @@
+package com.klef.cicd.model;
+
+public class Habit {
+
+}

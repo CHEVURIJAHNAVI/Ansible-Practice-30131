@@ -1,0 +1,120 @@
+2025-10-16 00:55:22,297 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-10-16 00:57:22,372 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.klef.cicd:backend-practice:0.0.1-SNAPSHOT @ D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\pom.xml.
+2025-10-16 00:57:24,604 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend-practice/src/main/java
+2025-10-16 00:57:24,610 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend-practice/src/main/resources
+2025-10-16 00:57:24,620 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend-practice/src/main/resources
+2025-10-16 00:57:24,629 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend-practice/src/test/java
+2025-10-16 00:57:24,632 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend-practice/src/test/resources
+2025-10-16 00:57:26,409 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2025-10-16 00:57:26,422 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-10-16 00:57:27,580 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.klef.cicd:backend-practice:0.0.1-SNAPSHOT @ D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\pom.xml.
+2025-10-16 00:57:28,750 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend-practice/src/main/java
+2025-10-16 00:57:28,752 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend-practice/src/main/resources
+2025-10-16 00:57:28,753 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend-practice/src/main/resources
+2025-10-16 00:57:28,754 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend-practice/src/test/java
+2025-10-16 00:57:28,758 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend-practice/src/test/resources
+2025-10-16 00:57:29,733 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2025-10-16 00:57:31,553 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 00:57:31,607 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 00:57:31,619 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 01:01:21,840 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 01:01:21,856 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 01:01:21,864 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 01:02:14,615 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 01:02:14,634 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 01:02:14,646 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 01:02:53,973 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 01:02:53,986 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 01:02:53,996 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 01:03:29,716 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 01:03:29,729 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 01:03:29,738 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 01:04:01,962 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 01:04:01,976 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 01:04:01,987 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 01:04:22,813 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 01:04:22,826 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 01:04:22,835 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 01:04:52,551 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 01:04:52,561 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 01:04:52,568 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 01:05:20,729 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 01:05:20,767 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 01:05:20,778 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 01:13:11,234 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 01:13:11,250 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 01:13:11,259 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 01:13:15,175 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 01:13:15,192 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 01:13:15,200 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 01:13:28,120 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 01:13:28,134 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 01:13:28,142 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 06:18:55,468 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-10-16 06:26:50,896 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.klef.cicd:backend-practice:0.0.1-SNAPSHOT @ D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\pom.xml.
+2025-10-16 06:26:52,140 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 06:26:52,165 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 06:26:52,172 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 06:26:52,314 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-10-16 06:26:52,887 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.klef.cicd:backend-practice:0.0.1-SNAPSHOT @ D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\pom.xml.
+2025-10-16 06:26:54,013 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend-practice/src/main/java
+2025-10-16 06:26:54,019 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend-practice/src/main/resources
+2025-10-16 06:26:54,021 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend-practice/src/main/resources
+2025-10-16 06:26:54,022 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend-practice/src/test/java
+2025-10-16 06:26:54,023 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend-practice/src/test/resources
+2025-10-16 06:26:55,185 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 1.00 sec 
+2025-10-16 06:26:56,720 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 06:26:56,902 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 06:26:56,915 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 06:28:31,190 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 06:28:31,207 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 06:28:31,211 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 06:31:00,963 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 06:31:00,968 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 06:31:00,971 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 06:31:25,061 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 06:31:25,066 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 06:31:25,070 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 06:32:12,378 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 06:32:12,390 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 06:32:12,397 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 06:33:48,285 [Worker-17: Launching backend-practice - BackendPracticeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 06:33:48,297 [Worker-17: Launching backend-practice - BackendPracticeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 06:33:48,304 [Worker-17: Launching backend-practice - BackendPracticeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 06:34:22,560 [Worker-36: Launching backend-practice - BackendPracticeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 06:34:22,585 [Worker-36: Launching backend-practice - BackendPracticeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 06:34:22,594 [Worker-36: Launching backend-practice - BackendPracticeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 06:36:12,557 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.klef.cicd:backend-practice:0.0.1-SNAPSHOT @ D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\pom.xml.
+2025-10-16 06:36:13,566 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 06:36:13,641 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 06:36:13,652 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 06:36:14,046 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-10-16 06:36:15,073 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.klef.cicd:backend-practice:0.0.1-SNAPSHOT @ D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\pom.xml.
+2025-10-16 06:36:16,449 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend-practice/src/main/java
+2025-10-16 06:36:16,451 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend-practice/src/main/resources
+2025-10-16 06:36:16,452 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend-practice/src/main/resources
+2025-10-16 06:36:16,452 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend-practice/src/test/java
+2025-10-16 06:36:16,454 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend-practice/src/test/resources
+2025-10-16 06:36:17,432 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2025-10-16 06:36:18,202 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 06:36:18,270 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 06:36:18,279 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 06:37:49,448 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 06:37:49,456 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 06:37:49,459 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 06:40:13,407 [Worker-33: Launching backend-practice - BackendPracticeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 06:40:13,427 [Worker-33: Launching backend-practice - BackendPracticeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 06:40:13,435 [Worker-33: Launching backend-practice - BackendPracticeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 06:41:13,801 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 06:41:13,807 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 06:41:13,810 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 09:43:04,191 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-10-16 10:14:31,490 [Worker-28: Launching backend-practice - BackendPracticeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 10:14:31,661 [Worker-28: Launching backend-practice - BackendPracticeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 10:14:31,668 [Worker-28: Launching backend-practice - BackendPracticeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 10:17:07,406 [Worker-1: Launching backend-practice - BackendPracticeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 10:17:07,417 [Worker-1: Launching backend-practice - BackendPracticeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 10:17:07,423 [Worker-1: Launching backend-practice - BackendPracticeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources
+2025-10-16 10:19:25,153 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 10:19:25,189 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 10:19:25,223 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CICD\3-1\PRACTICE\FULLSTACK\backend-practice\src\test\resources

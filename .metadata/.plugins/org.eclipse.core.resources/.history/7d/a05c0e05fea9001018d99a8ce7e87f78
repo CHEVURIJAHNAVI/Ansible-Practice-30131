@@ -1,0 +1,8 @@
+package com.klef.cicd;
+
+public class Snippet {
+	public static void main(String[] args) {
+		com.klef.cicd
+	}
+}
+
